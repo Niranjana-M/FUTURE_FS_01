@@ -1,16 +1,58 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Task Information
 
-Currently, two official plugins are available:
+* Internship Track: Full Stack Web Development
+* Track Code: FS
+* Task Number: 01
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Project Description
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This is a responsive personal portfolio website developed using React and Vite.
 
-## Expanding the ESLint configuration
+The portfolio includes:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Home Section
+* About Section
+* Skills Section
+* Projects Section
+* Contact Form with EmailJS
+* Resume Download
+* GitHub and LinkedIn Links
+
+---
+
+## 🛠️ Technologies Used
+
+* React.js
+* Vite
+* CSS
+* React Icons
+* EmailJS
+
+---
+
+## 📬 Features
+
+* Responsive Design
+* Smooth Scrolling Navigation
+* Modern UI Design
+* Email Contact Form
+* Social Media Integration
+
+---
+
+## ▶️ Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 👩‍💻 Developed By
+
+Niranjana M
