@@ -43,6 +43,11 @@ The portfolio includes:
 * Social Media Integration
 
 ---
+## Live Demo
+
+https://ephemeral-stardust-bf8b1d.netlify.app
+
+---
 
 ## ▶️ Run Locally
 
